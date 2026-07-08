@@ -1,3 +1,0 @@
-{
-  "webhook": "https://discord.com/api/webhooks/1362292966877691954/acOidyn87heFKd07d3J64rIe4Ydfot83YenYAc505XhIashdgnqN7gJSu0jk5VddfuXU" 
-}
