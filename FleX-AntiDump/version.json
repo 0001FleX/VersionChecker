@@ -1,4 +1,4 @@
 {
     "version": "1.1.0",
-    "changelog": "Added protection for shared scripts and NUI (UI) files. Fixed minor bugs."
+    "changelog": "Added protection for shared scripts and NUI (UI) files. Improved encryption and fixed minor bugs."
 }
